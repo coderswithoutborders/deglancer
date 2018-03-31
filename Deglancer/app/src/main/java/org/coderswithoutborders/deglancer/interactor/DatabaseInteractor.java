@@ -268,7 +268,7 @@ public class DatabaseInteractor implements IDatabaseInteractor {
 
         mRealm.where(ScreenAction.class)
                 .equalTo("mStage", stage)
-                .findAll().clear();
+                .findAll().deleteAllFromRealm(); // was .clear();
 
         mRealm.commitTransaction();
     }
@@ -280,7 +280,7 @@ public class DatabaseInteractor implements IDatabaseInteractor {
         mRealm.where(ScreenAction.class)
                 .equalTo("mStage", stage)
                 .equalTo("mDay", day)
-                .findAll().clear();
+                .findAll().deleteAllFromRealm(); // was .clear();
 
         mRealm.commitTransaction();
     }
@@ -293,7 +293,7 @@ public class DatabaseInteractor implements IDatabaseInteractor {
                 .equalTo("mStage", stage)
                 .equalTo("mDay", day)
                 .equalTo("mHour", hour)
-                .findAll().clear();
+                .findAll().deleteAllFromRealm(); // was .clear();
 
         mRealm.commitTransaction();
     }
@@ -304,7 +304,7 @@ public class DatabaseInteractor implements IDatabaseInteractor {
 
         mRealm.where(Averages.class)
                 .equalTo("mStage", stage)
-                .findAll().clear();
+                .findAll().deleteAllFromRealm(); // was .clear();
 
         mRealm.commitTransaction();
     }
@@ -316,7 +316,7 @@ public class DatabaseInteractor implements IDatabaseInteractor {
         mRealm.where(Averages.class)
                 .equalTo("mStage", stage)
                 .equalTo("mDay", day)
-                .findAll().clear();
+                .findAll().deleteAllFromRealm(); // was .clear();
 
         mRealm.commitTransaction();
     }
@@ -329,7 +329,7 @@ public class DatabaseInteractor implements IDatabaseInteractor {
                 .equalTo("mStage", stage)
                 .equalTo("mDay", day)
                 .equalTo("mHour", hour)
-                .findAll().clear();
+                .findAll().deleteAllFromRealm(); // was .clear();
 
         mRealm.commitTransaction();
     }
@@ -340,7 +340,7 @@ public class DatabaseInteractor implements IDatabaseInteractor {
 
         mRealm.where(Target.class)
                 .equalTo("mStage", target.getStage())
-                .findAll().clear();
+                .findAll().deleteAllFromRealm(); // was .clear();
 
         mRealm.copyToRealm(target);
 
@@ -353,7 +353,7 @@ public class DatabaseInteractor implements IDatabaseInteractor {
 
         mRealm.where(Stage6Toast.class)
                 .equalTo("mStage", toast.getStage())
-                .findAll().clear();
+                .findAll().deleteAllFromRealm(); // was .clear();
 
         mRealm.copyToRealm(toast);
 

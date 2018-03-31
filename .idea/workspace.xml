@@ -1,7 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feda80a2-e1a6-4229-bd67-d1c2d6dd6394" name="Default" comment="" />
+    <list default="true" id="feda80a2-e1a6-4229-bd67-d1c2d6dd6394" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/deglancer.iml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/.gitignore" afterPath="$PROJECT_DIR$/Deglancer/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/.gitignore" afterPath="$PROJECT_DIR$/Deglancer/app/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/build.gradle" afterPath="$PROJECT_DIR$/Deglancer/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/Deglancer/app/proguard-rules.pro" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/androidTest/java/org/coderswithoutborders/deglancer/ApplicationTest.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/androidTest/java/org/coderswithoutborders/deglancer/ApplicationTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/MainApplication.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/MainApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/bus/RxBus.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/bus/RxBus.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/bus/events/ActionEvent.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/bus/events/ActionEvent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/bus/events/AveragesOverrideEvent.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/bus/events/AveragesOverrideEvent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/bus/events/DebugStageEvent.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/bus/events/DebugStageEvent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/bus/events/StageSelectEvent.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/bus/events/StageSelectEvent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/ApplicationModule.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/ApplicationModule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/BusModule.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/BusModule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/DIGraph.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/DIGraph.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/DataModule.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/DataModule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/InteractorModule.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/InteractorModule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/PresenterModule.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/PresenterModule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/ReceiverModule.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/ReceiverModule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/StageModule.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/di/StageModule.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/AveragesSetViewPresenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/AveragesSetViewPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/IAveragesSetViewPresenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/IAveragesSetViewPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/IStageSelectViewPresenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/IStageSelectViewPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/IStatsViewPresenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/IStatsViewPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/ITargetSetViewPresenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/ITargetSetViewPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/StageSelectViewPresenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/StageSelectViewPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/StatsViewPresenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/StatsViewPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/TargetSetViewPresenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/presenter/TargetSetViewPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage1/DebugStage1Activity.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage1/DebugStage1Activity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage1/DebugStage1Presenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage1/DebugStage1Presenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage1/IDebugStage1Presenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage1/IDebugStage1Presenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage1/IDebugStage1View.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage1/IDebugStage1View.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage2/DebugStage2Activity.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage2/DebugStage2Activity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage2/DebugStage2Presenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage2/DebugStage2Presenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage2/IDebugStage2Presenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage2/IDebugStage2Presenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage2/IDebugStage2View.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage2/IDebugStage2View.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage3/DebugStage3Activity.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage3/DebugStage3Activity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage3/DebugStage3Presenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage3/DebugStage3Presenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage3/IDebugStage3Presenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage3/IDebugStage3Presenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage3/IDebugStage3View.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage3/IDebugStage3View.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage4/DebugStage4Activity.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage4/DebugStage4Activity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage4/DebugStage4Presenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage4/DebugStage4Presenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage4/IDebugStage4Presenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage4/IDebugStage4Presenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage4/IDebugStage4View.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage4/IDebugStage4View.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage5/DebugStage5Activity.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage5/DebugStage5Activity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage5/DebugStage5Presenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage5/DebugStage5Presenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage5/IDebugStage5Presenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage5/IDebugStage5Presenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage5/IDebugStage5View.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage5/IDebugStage5View.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage6/DebugStage6Activity.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage6/DebugStage6Activity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage6/DebugStage6Presenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage6/DebugStage6Presenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage6/IDebugStage6Presenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage6/IDebugStage6Presenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage6/IDebugStage6View.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/stage6/IDebugStage6View.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/AveragesSetView.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/AveragesSetView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/IAveragesSetView.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/IAveragesSetView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/IStageSelectView.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/IStageSelectView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/IStatsView.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/IStatsView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/ITargetSetView.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/ITargetSetView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/StageSelectView.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/StageSelectView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/StatsView.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/StatsView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/TargetSetView.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/func_debug/view/TargetSetView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/DatabaseInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/DatabaseInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/IDatabaseInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/IDatabaseInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/IInitialStartupInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/IInitialStartupInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/IPreTestInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/IPreTestInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/IScreenActionInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/IScreenActionInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/IStage6ToastInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/IStage6ToastInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/IStageInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/IStageInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/ITargetInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/ITargetInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/IUserInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/IUserInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/InitialStartupInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/InitialStartupInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/PreTestInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/PreTestInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/ScreenActionInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/ScreenActionInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/Stage6ToastInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/Stage6ToastInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/StageInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/StageInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/TargetInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/TargetInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/UserInteractor.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/interactor/UserInteractor.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/Averages.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/Averages.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/DBHelper.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/DBHelper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/PreTestResults.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/PreTestResults.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/ScreenAction.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/ScreenAction.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/ScreenEvent.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/ScreenEvent.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/ScreenTime.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/ScreenTime.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/Stage.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/Stage.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/Stage6Toast.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/Stage6Toast.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/Target.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/Target.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/TriState.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/TriState.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/UserInfo.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/model/UserInfo.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/presenter/IMainActivityPresenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/presenter/IMainActivityPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/presenter/IStage6ToastSetViewPresenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/presenter/IStage6ToastSetViewPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/presenter/MainActivityPresenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/presenter/MainActivityPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/presenter/Stage6ToastSetViewPresenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/presenter/Stage6ToastSetViewPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/pretest/IPreTestPresenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/pretest/IPreTestPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/pretest/IPreTestView.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/pretest/IPreTestView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/pretest/PreTestActivity.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/pretest/PreTestActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/pretest/PreTestPresenter.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/pretest/PreTestPresenter.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/receivers/BootReceiver.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/receivers/BootReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/receivers/ScreenActionReceiver.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/receivers/ScreenActionReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/services/TrackerService.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/services/TrackerService.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/IStageHandler.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/IStageHandler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/Keystore.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/Keystore.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/Stage1Handler.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/Stage1Handler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/Stage2Handler.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/Stage2Handler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/Stage3Handler.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/Stage3Handler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/Stage4Handler.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/Stage4Handler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/Stage5Handler.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/Stage5Handler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/Stage6Handler.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/stagehandlers/Stage6Handler.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/utils/TimePickerDialog.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/utils/TimePickerDialog.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/utils/TimeUtils.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/utils/TimeUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/utils/ToastUtils.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/utils/ToastUtils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/view/IMainActivityView.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/view/IMainActivityView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/view/IStage6ToastSetView.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/view/IStage6ToastSetView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/view/MainActivity.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/view/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/view/ResearchInformationSheet.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/view/ResearchInformationSheet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/view/Stage6ToastSetView.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/java/org/coderswithoutborders/deglancer/view/Stage6ToastSetView.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/color/button_color.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/color/button_color.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/drawable/rounded_button.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/drawable/rounded_button.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/drawable/rounded_button_pressed.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/drawable/rounded_button_pressed.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/drawable/rounded_corner.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/drawable/rounded_corner.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/activity_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/averages_set_view.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/averages_set_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/custom_toast.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/custom_toast.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/debug_stage1.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/debug_stage1.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/debug_stage2.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/debug_stage2.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/debug_stage3.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/debug_stage3.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/debug_stage4.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/debug_stage4.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/debug_stage5.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/debug_stage5.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/debug_stage6.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/debug_stage6.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/pretest.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/pretest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/research_information_sheet.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/research_information_sheet.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/stage6_toast_new_view.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/stage6_toast_new_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/stage6_toast_set_view.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/stage6_toast_set_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/stage_select_view.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/stage_select_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/stats_view.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/stats_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/target_set_view.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/target_set_view.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/time_picker_dialog.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/time_picker_dialog.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/toolbar.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/layout/toolbar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/menu/menu_main.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/menu/menu_main.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/menu/menu_main_debug.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/menu/menu_main_debug.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/values-fi/strings.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/values-fi/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/values-v21/styles.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/values-v21/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/values-w820dp/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/values/colors.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/values/dimens.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/values/integers.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/values/integers.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/Deglancer/app/src/main/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/app/src/test/java/org/coderswithoutborders/deglancer/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/Deglancer/app/src/test/java/org/coderswithoutborders/deglancer/ExampleUnitTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/build.gradle" afterPath="$PROJECT_DIR$/Deglancer/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/gradle.properties" afterPath="$PROJECT_DIR$/Deglancer/gradle.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/Deglancer/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/gradlew" afterPath="$PROJECT_DIR$/Deglancer/gradlew" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/gradlew.bat" afterPath="$PROJECT_DIR$/Deglancer/gradlew.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Deglancer/settings.gradle" afterPath="$PROJECT_DIR$/Deglancer/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/LICENSE" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew" afterPath="$PROJECT_DIR$/gradlew" />
+    </list>
     <ignored path="deglancer.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/app/.gradle/" />
@@ -15,21 +183,38 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
   <component name="FavoritesManager">
     <favorites_list name="deglancer" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="2.8" />
+      </map>
+    </option>
     <option name="availableProjects">
       <map>
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="deglancer" />
+              <option name="name" value="deglancer2" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
@@ -40,7 +225,7 @@
                 <option name="path" value="$PROJECT_DIR$/app" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="deglancer" />
+                <option name="name" value="deglancer2" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -54,23 +239,38 @@
           <value>
             <list>
               <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="clean" />
+                <option name="name" value="init" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'deglancer'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'deglancer2'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'deglancer'." />
+                <option name="description" value="Displays the sub-projects of root project 'deglancer2'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="dependencies" />
+                <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'deglancer'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'deglancer2'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'deglancer2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays a help message." />
@@ -78,34 +278,19 @@
                 <option name="name" value="help" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Initializes a new Gradle build. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="init" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'deglancer'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'deglancer2'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'deglancer'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="projects" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'deglancer'." />
+                <option name="description" value="Displays the properties of root project 'deglancer2'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'deglancer' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'deglancer2' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="wrapper" />
               </ExternalTaskPojo>
             </list>
           </value>
@@ -114,14 +299,19 @@
           <value>
             <list>
               <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Displays the components produced by project ':app'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':app'." />
+                <option name="description" value="Displays the sub-projects of project ':app'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="dependencies" />
+                <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the insight into a specific dependency in project ':app'." />
@@ -129,19 +319,9 @@
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays a help message." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="help" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Displays the configuration model of project ':app'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="model" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':app'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Displays the properties of project ':app'." />
@@ -153,14 +333,14 @@
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':app'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
             </list>
           </value>
         </entry>
-      </map>
-    </option>
-    <option name="modificationStamps">
-      <map>
-        <entry key="$PROJECT_DIR$" value="2918898076000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -187,13 +367,11 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/2.0.0-beta7/784eda8a2990d4f2c95aa684a6805350e5d2214d/gradle-api-2.0.0-beta7.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.0.0-beta7/6df5651b206d22c90a339f2fa29f5889b22ff43f/compilerCommon-2.0.0-beta7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.0.0-beta7/615a8977a126f0d45e5b767c703a344050775989/compilerCommon-2.0.0-beta7.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.3/asm-commons-5.0.3-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.3/asm-commons-5.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-5.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/dcc2193db20e19e1feca8b1240dbbc4e190824fa/asm-5.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-commons-5.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.3/a7111830132c7f87d08fe48cb0ca07630f8cb91c/asm-commons-5.0.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.4.201502262128/org.jacoco.core-0.7.4.201502262128-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.4.201502262128/org.jacoco.core-0.7.4.201502262128.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr/3.5.2/antlr-3.5.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.0.0-beta7/b371bb025415156b1549da4989e6828ea82c9320/builder-model-2.0.0-beta7-sources.jar" />
@@ -210,35 +388,29 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/25.0.0-beta7/8cb68a7bdca008a4a0622d16396eacd8105ede27/manifest-merger-25.0.0-beta7.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.0.0-beta7/d767aa517097fb5197adab64a99d14edabf5aee3/ddmlib-25.0.0-beta7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.0.0-beta7/85615fe734a1e6dc1b546f9ffd3162aa62bd3cde/ddmlib-25.0.0-beta7.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.9.0/jack-api-0.9.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.9.0/jack-api-0.9.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.9.0/jill-api-0.9.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.9.0/jill-api-0.9.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.jack/jack-api/0.9.0/f76988a198643368d1a8b7c0bf64c9c786a14003/jack-api-0.9.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.jack/jack-api/0.9.0/6b474acfffc1e9d9e03df4ab3579b5fef852ed23/jack-api-0.9.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.jill/jill-api/0.9.0/2305e2939008581556ca0b392eacac2ca2af5182/jill-api-0.9.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.jill/jill-api/0.9.0/9a83e898b15c853f6c92c74791064ca400cd3f3/jill-api-0.9.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-tree-5.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.3/287749b48ba7162fb67c93a026d690b29f410bed/asm-tree-5.0.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.0.0-beta7/6bc83c0a167f675739f6a8bab40da478643efd04/lint-checks-25.0.0-beta7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.0.0-beta7/b8e14267f5b7e710ed9830d61390a91f6ff18568/lint-checks-25.0.0-beta7.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt.core.compiler/ecj/4.4.2/903e8c2cb521cc91636eccae66b8594435516ff5/ecj-4.4.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt.core.compiler/ecj/4.4.2/71d67f5bab9465ec844596ef844f40902ae25392/ecj-4.4.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.0.0-beta7/ddd06d2f82da9e471cb84f5480f2d0d547f7dba4/annotations-25.0.0-beta7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.0.0-beta7/3692c18c9dff1c8145738c6d7996b6848c30d2b8/annotations-25.0.0-beta7.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.0.0-beta7/f9506f402c6930f26792ccc2038210d81ec8ed76/baseLibrary-2.0.0-beta7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.0.0-beta7/2325d4602c5bce35bc23a85d02e90cbf8ff5357c/baseLibrary-2.0.0-beta7.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/tunnelvisionlabs/antlr4/4.5/antlr4-4.5.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4/4.5/d61f0b719751a2823a1d4e2d206406488d52276d/antlr4-4.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4/4.5/a0e860e317147848e69ac145bc5196901a9993bf/antlr4-4.5.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/ST4/4.0.8/ST4-4.0.8.jar" />
@@ -248,33 +420,26 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/25.0.0-beta7/53586246b5f410cc85f3213993e70decdcb18a28/dvlib-25.0.0-beta7.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.0.0-beta7/54a64f1020a3c99b486566c5036d700a0d155e18/repository-25.0.0-beta7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.0.0-beta7/5de82fbaf10e45055825c2dcdeeb9105554f5a0e/repository-25.0.0-beta7.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.0.0-beta7/e25291867ce8da505fbab316cdbe2562f5a46d7f/lint-api-25.0.0-beta7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.0.0-beta7/c8fae744f3f2255353a7c9cad839ec364067d0d7/lint-api-25.0.0-beta7.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/tunnelvisionlabs/antlr4-runtime/4.5/antlr4-runtime-4.5.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/tunnelvisionlabs/antlr4-annotations/4.5/antlr4-annotations-4.5.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-analysis-5.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.0.3/c7126aded0e8e13fed5f913559a0dd7b770a10f3/asm-analysis-5.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-runtime/4.5/61495cea98c9c63b16b87ae4e79b7e478405e40b/antlr4-runtime-4.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-runtime/4.5/5067478827a98f5ab77d9fc577903edc57af3da4/antlr4-runtime-4.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-annotations/4.5/8d24c9255a970c3c85fc5c88dfe9d4e8627d56e2/antlr4-annotations-4.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-annotations/4.5/2c5996120a0ac690de575bd8ac36250e6720a6b8/antlr4-annotations-4.5.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/abego/treelayout/org.abego.treelayout.core/1.0.1/org.abego.treelayout.core-1.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.1/6e1dd6f6efdb453c7b8ba35726c63fbf50cd7142/org.abego.treelayout.core-1.0.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.1/e31e79cba7a5414cf18fa69f3f0a2cf9ee997b61/org.abego.treelayout.core-1.0.1.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$" />
@@ -298,13 +463,11 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/gradle-api/2.0.0-beta7/784eda8a2990d4f2c95aa684a6805350e5d2214d/gradle-api-2.0.0-beta7.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.0.0-beta7/6df5651b206d22c90a339f2fa29f5889b22ff43f/compilerCommon-2.0.0-beta7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/2.0.0-beta7/615a8977a126f0d45e5b767c703a344050775989/compilerCommon-2.0.0-beta7.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.3/asm-commons-5.0.3-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-commons/5.0.3/asm-commons-5.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-5.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.3/dcc2193db20e19e1feca8b1240dbbc4e190824fa/asm-5.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-commons-5.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.3/a7111830132c7f87d08fe48cb0ca07630f8cb91c/asm-commons-5.0.3.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-gradle/5.2.1/proguard-gradle-5.2.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.4.201502262128/org.jacoco.core-0.7.4.201502262128-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/jacoco/org.jacoco.core/0.7.4.201502262128/org.jacoco.core-0.7.4.201502262128.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr/3.5.2/antlr-3.5.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/builder-model/2.0.0-beta7/b371bb025415156b1549da4989e6828ea82c9320/builder-model-2.0.0-beta7-sources.jar" />
@@ -321,35 +484,29 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/manifest-merger/25.0.0-beta7/8cb68a7bdca008a4a0622d16396eacd8105ede27/manifest-merger-25.0.0-beta7.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.0.0-beta7/d767aa517097fb5197adab64a99d14edabf5aee3/ddmlib-25.0.0-beta7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.ddms/ddmlib/25.0.0-beta7/85615fe734a1e6dc1b546f9ffd3162aa62bd3cde/ddmlib-25.0.0-beta7.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.9.0/jack-api-0.9.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jack/jack-api/0.9.0/jack-api-0.9.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.9.0/jill-api-0.9.0-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/jill/jill-api/0.9.0/jill-api-0.9.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.jack/jack-api/0.9.0/f76988a198643368d1a8b7c0bf64c9c786a14003/jack-api-0.9.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.jack/jack-api/0.9.0/6b474acfffc1e9d9e03df4ab3579b5fef852ed23/jack-api-0.9.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.jill/jill-api/0.9.0/2305e2939008581556ca0b392eacac2ca2af5182/jill-api-0.9.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.jill/jill-api/0.9.0/9a83e898b15c853f6c92c74791064ca400cd3f3/jill-api-0.9.0.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-tree-5.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.3/287749b48ba7162fb67c93a026d690b29f410bed/asm-tree-5.0.3.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.0.0-beta7/6bc83c0a167f675739f6a8bab40da478643efd04/lint-checks-25.0.0-beta7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-checks/25.0.0-beta7/b8e14267f5b7e710ed9830d61390a91f6ff18568/lint-checks-25.0.0-beta7.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4.2/ecj-4.4.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt.core.compiler/ecj/4.4.2/903e8c2cb521cc91636eccae66b8594435516ff5/ecj-4.4.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt.core.compiler/ecj/4.4.2/71d67f5bab9465ec844596ef844f40902ae25392/ecj-4.4.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.0.0-beta7/ddd06d2f82da9e471cb84f5480f2d0d547f7dba4/annotations-25.0.0-beta7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/annotations/25.0.0-beta7/3692c18c9dff1c8145738c6d7996b6848c30d2b8/annotations-25.0.0-beta7.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.0.0-beta7/f9506f402c6930f26792ccc2038210d81ec8ed76/baseLibrary-2.0.0-beta7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/2.0.0-beta7/2325d4602c5bce35bc23a85d02e90cbf8ff5357c/baseLibrary-2.0.0-beta7.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/tunnelvisionlabs/antlr4/4.5/antlr4-4.5.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4/4.5/d61f0b719751a2823a1d4e2d206406488d52276d/antlr4-4.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4/4.5/a0e860e317147848e69ac145bc5196901a9993bf/antlr4-4.5.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-io/commons-io/2.4/commons-io-2.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/googlecode/juniversalchardet/juniversalchardet/1.0.3/juniversalchardet-1.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/proguard/proguard-base/5.2.1/proguard-base-5.2.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-debug-all/5.0.1/asm-debug-all-5.0.1.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/antlr-runtime/3.5.2/antlr-runtime-3.5.2.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/antlr/ST4/4.0.8/ST4-4.0.8.jar" />
@@ -359,33 +516,26 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/dvlib/25.0.0-beta7/53586246b5f410cc85f3213993e70decdcb18a28/dvlib-25.0.0-beta7.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.0.0-beta7/54a64f1020a3c99b486566c5036d700a0d155e18/repository-25.0.0-beta7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools/repository/25.0.0-beta7/5de82fbaf10e45055825c2dcdeeb9105554f5a0e/repository-25.0.0-beta7.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.0.0-beta7/e25291867ce8da505fbab316cdbe2562f5a46d7f/lint-api-25.0.0-beta7-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-api/25.0.0-beta7/c8fae744f3f2255353a7c9cad839ec364067d0d7/lint-api-25.0.0-beta7.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3-sources.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/tunnelvisionlabs/antlr4-runtime/4.5/antlr4-runtime-4.5.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/tunnelvisionlabs/antlr4-annotations/4.5/antlr4-annotations-4.5.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.0.3/f0f24f6666c1a15c7e202e91610476bd4ce59368/asm-analysis-5.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.0.3/c7126aded0e8e13fed5f913559a0dd7b770a10f3/asm-analysis-5.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-runtime/4.5/61495cea98c9c63b16b87ae4e79b7e478405e40b/antlr4-runtime-4.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-runtime/4.5/5067478827a98f5ab77d9fc577903edc57af3da4/antlr4-runtime-4.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-annotations/4.5/8d24c9255a970c3c85fc5c88dfe9d4e8627d56e2/antlr4-annotations-4.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tunnelvisionlabs/antlr4-annotations/4.5/2c5996120a0ac690de575bd8ac36250e6720a6b8/antlr4-annotations-4.5.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar" />
-                            <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/org/abego/treelayout/org.abego.treelayout.core/1.0.1/org.abego.treelayout.core-1.0.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.1/6e1dd6f6efdb453c7b8ba35726c63fbf50cd7142/org.abego.treelayout.core-1.0.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.abego.treelayout/org.abego.treelayout.core/1.0.1/e31e79cba7a5414cf18fa69f3f0a2cf9ee997b61/org.abego.treelayout.core-1.0.1.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/app" />
@@ -397,119 +547,119 @@
               <option name="name" value="app" />
               <option name="projectBuildClasspath">
                 <list>
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/announce" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/antlr" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/base-services" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/base-services-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/build-comparison" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/build-init" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/cli" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/code-quality" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/dependency-management" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/diagnostics" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/ear" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/ide" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/ide-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/internal-integ-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/internal-testing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/ivy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/jacoco" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/javascript" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/jetty" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-java" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/launcher" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/maven" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/messaging" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/model-core" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/model-groovy" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/open-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/osgi" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/platform-base" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/platform-jvm" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/platform-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/platform-play" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/plugin-development" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/plugin-use" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/plugins" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/publish" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/reporting" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/resources" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/resources-http" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/resources-s3" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/resources-sftp" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/scala" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/signing" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/sonar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/test-kit" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/testing-native" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/tooling-api" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/tooling-api-builders" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/ivy" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/wrapper" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/ant-1.9.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/ant-launcher-1.9.3.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-base-services-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-base-services-groovy-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-cli-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-core-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-docs-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/test-kit" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/sonar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-tooling-api-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-model-groovy-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-resources-2.8.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-launcher-2.8.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-messaging-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-model-core-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-model-groovy-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-native-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/ant-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-base-services-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-docs-2.8.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-open-api-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-resources-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-tooling-api-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-ui-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-cli-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-core-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/ant-launcher-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-model-core-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-base-services-groovy-2.8.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-wrapper-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-ui-2.8.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/groovy-all-2.4.4.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-announce-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-antlr-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-build-comparison-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-build-init-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/gradle-native-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-resources-s3-2.8.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-code-quality-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-dependency-management-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-diagnostics-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-ear-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-ide-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-ide-native-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-resources-sftp-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-signing-2.8.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-ivy-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-jacoco-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-javascript-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-test-kit-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-build-init-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-platform-jvm-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-maven-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-platform-play-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-ide-2.8.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-jetty-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-resources-http-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-scala-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-osgi-2.8.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-language-groovy-2.8.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-language-java-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-language-jvm-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-language-native-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-language-scala-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-maven-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-osgi-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-platform-base-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-platform-jvm-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-platform-native-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-platform-play-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-plugin-development-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-plugin-use-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-plugins-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-publish-2.8.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-reporting-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-resources-http-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-resources-s3-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-resources-sftp-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-scala-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-signing-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-sonar-2.8.jar" />
-                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-test-kit-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-antlr-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-diagnostics-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-plugin-development-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-ide-native-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-dependency-management-2.8.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-testing-native-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-ear-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-sonar-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-publish-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-language-jvm-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-platform-base-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-plugin-use-2.8.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-tooling-api-builders-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-announce-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-language-scala-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-javascript-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-language-native-2.8.jar" />
                   <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-jacoco-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-platform-native-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-build-comparison-2.8.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.8-all/ah86jmo43de9lfa8xg9ux3c4h/gradle-2.8/lib/plugins/gradle-plugins-2.8.jar" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
                   <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
                 </list>
@@ -525,21 +675,12 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1920" />
-    <option name="height" value="1097" />
+    <option name="width" value="1680" />
+    <option name="height" value="1027" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="AndroidView" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -552,13 +693,60 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="2.0.0" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method>
+        <option name="Make" enabled="false" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -573,30 +761,6 @@
       <module name="" />
       <envs />
       <method />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method>
-        <option name="Make" enabled="false" />
-        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-      </method>
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
@@ -647,37 +811,42 @@
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
   </component>
-  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="feda80a2-e1a6-4229-bd67-d1c2d6dd6394" name="Default" comment="" />
       <created>1463236971304</created>
       <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
       <updated>1463236971304</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1097" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24969475" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -693,5 +862,80 @@
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Android-Gradle</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>app</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

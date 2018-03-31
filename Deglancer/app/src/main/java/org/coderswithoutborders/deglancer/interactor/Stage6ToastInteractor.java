@@ -59,7 +59,7 @@ public class Stage6ToastInteractor implements IStage6ToastInteractor {
         int oldToast = getStage6ToastSynchronous(6);
 
         if (t.getTarget() != oldToast) {
-            // Timber.d("Toast type has changed, let's update.");
+            Timber.d("Toast type has changed, let's update.");
             mDatabaseInteractor.commitToast(t);
 
             DatabaseReference ref = mFirebaseClient.child(mUserInteractor.getInstanceIdSynchronous()).child("Stage6Toast");

@@ -197,8 +197,8 @@
 
     <string name="activity_debug_stage_activity_title_from_code">Stage %1$s Debug</string>
 
-    <string name="time_picker_okay_button_text">OKAY</string>
-    <string name="time_picker_cancel_button_text">CANCEL</string>
+    <string name="time_picker_okay_button_text">Okay</string>
+    <string name="time_picker_cancel_button_text">Cancel</string>
 
     <string name="rdbStage6NoInformationText">Nothing</string>
     <string name="rdbStage6InformationText">Information</string>

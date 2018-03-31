@@ -10,7 +10,8 @@ import io.realm.Realm;
 public class DBHelper {
 
     private void create_realm_data_object(ScreenTime screen_time, Context context) {
-        Realm realm = Realm.getInstance(context);
+        Realm realm = Realm.getInstance(Realm.getDefaultConfiguration());
+        // Realm realm = Realm.getInstance(context);
         // Create ScreenTime Object
         screen_time = new ScreenTime();
         ScreenTime db_screen_time = realm.createObject(ScreenTime.class);

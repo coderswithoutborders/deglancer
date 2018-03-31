@@ -1,8 +1,8 @@
-apply plugin: 'me.tatarka.retrolambda'
+// apply plugin: 'me.tatarka.retrolambda'
 apply plugin: 'com.android.application'
-apply plugin: 'com.neenbedankt.android-apt'
 apply plugin: 'realm-android'
 
+/*
 retrolambda {
     jdk System.getenv("JAVA_HOME")
     oldJdk System.getenv("JAVA7_HOME")
@@ -10,16 +10,18 @@ retrolambda {
     defaultMethods false
     incremental true
 }
+*/
+
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    buildToolsVersion '26.0.2'
 
     defaultConfig {
         applicationId "org.coderswithoutborders.deglancer"
         minSdkVersion 16
         targetSdkVersion 23
-        versionCode 25
-        versionName "1.2.5"
+        versionCode 28
+        versionName "1.2.8"
     }
     buildTypes {
         release {
@@ -80,7 +82,7 @@ dependencies {
     compile 'info.hoang8f:android-segmented:1.0.6'
 
     compile "com.google.dagger:dagger:$DAGGER_VERSION"
-    apt "com.google.dagger:dagger-compiler:$DAGGER_COMPILER_VERSION"
+    annotationProcessor "com.google.dagger:dagger-compiler:$DAGGER_COMPILER_VERSION"
     provided "javax.annotation:jsr250-api:$ANNOTATION_VERSION"
 
     compile "joda-time:joda-time:$JODA_TIME_VERSION"
@@ -107,9 +109,11 @@ task switchToRelease(type: Copy) {
     into "."
 }
 
+/*
 afterEvaluate {
     processDebugGoogleServices.dependsOn switchToDebug
     processReleaseGoogleServices.dependsOn switchToRelease
 }
+*/
 
 apply plugin: 'com.google.gms.google-services'

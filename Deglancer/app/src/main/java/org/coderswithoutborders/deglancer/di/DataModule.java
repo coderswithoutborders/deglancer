@@ -120,7 +120,11 @@ public class DataModule {
     @Singleton
     @Provides
     RealmConfiguration provideRealmConfiguration(Context context) {
-        return new RealmConfiguration.Builder(context)
+
+        // Add init, Lapa 31.3.2018
+        Realm.init(context);
+
+        return new RealmConfiguration.Builder()
                 .name("deglancer.realm")
                 .schemaVersion(3)
                 .deleteRealmIfMigrationNeeded()

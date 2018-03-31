@@ -18,6 +18,7 @@ import timber.log.Timber;
 @ReportsCrashes(
         formUri = "https://collector.tracepot.com/15c51f2e"
 )
+
 public class MainApplication extends Application {
     private DIGraph mGraph;
 
@@ -42,7 +43,7 @@ public class MainApplication extends Application {
     protected void attachBaseContext(Context base) {
         super.attachBaseContext(base);
 
-        ACRA.init(this);
+        // ACRA.init(this);
     }
 
     public DIGraph getGraph() {
